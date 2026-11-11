@@ -1,0 +1,1 @@
+Upload the project files (including the hidden .github folder) to a GitHub repository, open Actions > Build Android Trial APK > Run workflow, then download the APK artifact. This project is untested and may need fixes. GitHub requires an account.
